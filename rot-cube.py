@@ -1,4 +1,3 @@
-#!/bin/env python
 from drawille import Canvas, line, animate
 from math import hypot, sqrt, sin, cos, pi
 from numpy import array, matmul, ones
